@@ -13,6 +13,5 @@ I design, build, and optimize scalable full-stack applications, utilizing cloud-
 - **Frontend Engineering:** Advanced JavaScript (ES6+), Modern Component Architecture, Web Core APIs
 - **Development Workflows:** Version Control (Git/GitHub), Terminal-Driven Systems Automation, Linux/POSIX Environments
 
----
-### Technical Metrics & Contributions
-![Your GitHub Stats](https://vercel.app)
+
+
